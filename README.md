@@ -3,7 +3,7 @@
 This project features a captivating loading animation created using HTML and CSS. The animation consists of glowing circles that rotate and scale, set against a vibrant background that changes colors.
 
 ## 🚀 Demo
-You can view the live demo of the loading animation [here](your-hosting-link.com).
+You can view the live demo of the loading animation [here](https://mariumshiraz.github.io/100_Days_Challenges_day-2/).
 
 ## 💻 Technologies Used
 - HTML
